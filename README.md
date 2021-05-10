@@ -1,2 +1,2 @@
 # Analizador-l-xico
-Mi analzidaro léxico from the scratch
+Mi analizador léxico from the scratch en C
